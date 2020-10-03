@@ -6,3 +6,7 @@ Always try to get as much relevant information from Brackets console (F12) as po
 ## Pull requests
 
 When creating a new functionality which isn't noted on GitHub, please open an issue for it before working on the code as others may have hints and suggestions to consider before writing the code. Also when fixing an issue, add a comment to the issue on GitHub before working on it so it doesn't happen that two people are working on the same thing at the same time.
+
+## Contributors
+
+Mateo Loaiza Rios
